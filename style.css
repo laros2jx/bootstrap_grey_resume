@@ -1,0 +1,19 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+body {background-image: url(harvard_med.png), url(dartmouth_logo.png);
+			background-position: right bottom, left bottom;
+			background-repeat: no-repeat, no-repeat;
+			background-color: #f9f7fa;}
+		#name { text-align: center;}
+		h1 {font-family: "Playwrite CU", cursive;}
+		h2 {font-family: "Merienda", cursive;}
+		ul {list-style-position: inside;
+			list-style-image: url('sethascope.png');}
+		h3 {text-decoration: underline;}
+		/* unvisited link */
+			a:link {color: black;}
+		/* visited link */
+			a:visited {color: #737375;}
+		/* mouse over link */
+			a:hover {color: #c989b6;}
+		/* selected link */
+			a:active {color: #997dad;}
